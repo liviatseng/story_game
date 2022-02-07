@@ -1,8 +1,11 @@
+@import url('http://fonts.cdnfonts.com/css/nosifer');
+/* @import url('http://fonts.cdnfonts.com/css/jhinbey');  */
+@import url('http://fonts.cdnfonts.com/css/jhinbey');
 
 
 *{
     font-size: 25px;
-    font-family: 'JHINBEY', sans-serif; 
+    font-family: 'JHINBEY', sans-serif;
     letter-spacing: 2px;
 }
 
